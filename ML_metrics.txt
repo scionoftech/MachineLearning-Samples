@@ -1,0 +1,19 @@
+machine learning model performance metrics
+-------------------------------------------
+Classification:
+---------------
+1.accuracy
+2.Confusion matrix
+3.TPR(sensitivity)
+4.FPR(specificity)
+5.AUC-ROC
+7.Logloss
+6.F1 Score
+7.Precision
+8.Recall
+
+Regression:
+------------
+MAE
+MSE
+R^2 Score
