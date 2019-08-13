@@ -1,0 +1,36 @@
+1. Data loading types
+--------------------
+csv,excel,sql,nosql,html source etc
+
+2. EDA or DDA
+---------------
+analyze data for any unwanted values and perform required actions
+
+3. Data Visualization
+--------------------
+visualizing data for feature identification
+
+4. Data Cleaning
+-------------------
+missing values hadling, formatting data, removing unwanted values
+
+5. Feature Engineering
+------------------
+identifing prefect features, scalling features 
+
+6. Data Preparation
+-------------------
+creates data for modeling. Train, validation and test data
+
+7. Modeling
+-----------
+apply different alogrithms for data modeling
+
+8. Hyperparameter tuning
+-------------------------
+tune hyperparameter for better accuracy
+
+9. Test Model
+-------------
+test model with test data
+
